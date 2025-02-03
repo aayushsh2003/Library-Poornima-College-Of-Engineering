@@ -1,0 +1,172 @@
+{
+  "announcements": [
+    {
+      "id": "1",
+      "title": "Extended Library Hours During Finals",
+      "date": "2024-03-15",
+      "content": "The library will remain open 24/7 during finals week from March 15th to March 29th. Additional study spaces will be available on the second floor.",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "New Database Subscriptions",
+      "date": "2024-03-10",
+      "content": "We've added access to JSTOR Arts & Sciences XII Collection and ProQuest Historical Newspapers. Training sessions available next week.",
+      "priority": "medium"
+    },
+    {
+      "id": "3",
+      "title": "Library Workshop Series",
+      "date": "2024-03-08",
+      "content": "Join us for our spring workshop series on advanced research methods, citation management, and digital literacy.",
+      "priority": "medium"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Research Workshop: Advanced Database Searching",
+      "date": "2024-03-20",
+      "description": "Learn advanced techniques for searching academic databases effectively. Topics include Boolean operators, field searching, and citation analysis.",
+      "type": "workshop"
+    },
+    {
+      "id": "2",
+      "title": "Author Talk: Dr. Sarah Johnson",
+      "date": "2024-03-25",
+      "description": "Join us for a discussion with Dr. Sarah Johnson about her new book on environmental sustainability in urban planning.",
+      "type": "lecture"
+    },
+    {
+      "id": "3",
+      "title": "Special Collections Exhibition",
+      "date": "2024-04-01",
+      "description": "Exploring our rare books collection featuring first editions from the 19th century.",
+      "type": "exhibition"
+    }
+  ],
+  "databases": [
+    {
+      "id": "1",
+      "name": "JSTOR",
+      "description": "Digital library of academic journals, books, and primary sources",
+      "category": "Multidisciplinary",
+      "url": "https://www.jstor.org"
+    },
+    {
+      "id": "2",
+      "name": "Science Direct",
+      "description": "Leading platform for peer-reviewed scholarly literature",
+      "category": "Science",
+      "url": "https://www.sciencedirect.com"
+    },
+    {
+      "id": "3",
+      "name": "PubMed Central",
+      "description": "Free archive of biomedical and life sciences journal literature",
+      "category": "Medicine",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc"
+    },
+    {
+      "id": "4",
+      "name": "IEEE Xplore",
+      "description": "Research database for technology and engineering",
+      "category": "Engineering",
+      "url": "https://ieeexplore.ieee.org"
+    }
+  ],
+  "staff": [
+    {
+      "id": "1",
+      "name": "Dr. Emily Chen",
+      "role": "Library Director",
+      "email": "e.chen@library.edu",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "2",
+      "name": "Michael Rodriguez",
+      "role": "Head of Digital Services",
+      "email": "m.rodriguez@library.edu",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "3",
+      "name": "Dr. Sarah Thompson",
+      "role": "Research Services Librarian",
+      "email": "s.thompson@library.edu",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "resources": {
+    "ebooks": [
+      {
+        "id": "1",
+        "title": "Introduction to Data Science",
+        "author": "John Smith",
+        "publisher": "Academic Press",
+        "year": 2023,
+        "cover": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "2",
+        "title": "Modern Literature Review",
+        "author": "Emma Davis",
+        "publisher": "University Press",
+        "year": 2024,
+        "cover": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      }
+    ],
+    "ejournals": [
+      {
+        "id": "1",
+        "title": "Journal of Advanced Research",
+        "publisher": "Science Publishing",
+        "frequency": "Monthly",
+        "subjects": ["Science", "Technology"]
+      },
+      {
+        "id": "2",
+        "title": "Digital Humanities Quarterly",
+        "publisher": "Humanities Press",
+        "frequency": "Quarterly",
+        "subjects": ["Digital Humanities", "Arts"]
+      }
+    ]
+  },
+  "services": {
+    "borrowing": {
+      "undergraduate": {
+        "loan_period": "21 days",
+        "max_items": 10,
+        "renewals": 2
+      },
+      "graduate": {
+        "loan_period": "45 days",
+        "max_items": 20,
+        "renewals": 3
+      },
+      "faculty": {
+        "loan_period": "120 days",
+        "max_items": 50,
+        "renewals": 5
+      }
+    },
+    "study_spaces": [
+      {
+        "id": "1",
+        "name": "Silent Study Room",
+        "capacity": 30,
+        "features": ["Individual desks", "Power outlets", "Natural lighting"],
+        "location": "2nd Floor"
+      },
+      {
+        "id": "2",
+        "name": "Group Study Rooms",
+        "capacity": 8,
+        "features": ["Whiteboard", "Display screen", "Conference table"],
+        "location": "3rd Floor"
+      }
+    ]
+  }
+}

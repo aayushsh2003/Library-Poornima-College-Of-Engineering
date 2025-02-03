@@ -1,0 +1,353 @@
+{
+  "engineering": {
+    "title": "Engineering E-Books",
+    "books": [
+      {
+      "id": "3",
+      "title": "Information Theory, Excess Entropy and Statistical Complexity",
+      "author": "David Feldman",
+      "publisher": "College of the Atlantic",
+      "year": "2002",
+      "pages": 49,
+      "category": "Information Theory"
+    },
+    {
+      "id": "4",
+      "title": "Computability and Randomness",
+      "author": "Andre Nies",
+      "publisher": "Oxford University Press",
+      "year": "2008",
+      "pages": 447,
+      "category": "Computability"
+    },
+    {
+      "id": "5",
+      "title": "Introduction to Autonomous Robots",
+      "author": "Nikolaus Correl",
+      "publisher": "Magellan Scientific",
+      "year": "2016",
+      "pages": 226,
+      "category": "Robotics"
+    },
+    {
+      "id": "6",
+      "title": "Handbook of Quantum Information",
+      "author": "Quantiki",
+      "year": "2013",
+      "pages": 516,
+      "category": "Quantum Information"
+    },
+    {
+      "id": "7",
+      "title": "Complexity Theory: A Modern Approach",
+      "author": "Sanjeev Arora, Boaz Barak",
+      "publisher": "Cambridge University Press",
+      "year": "2008",
+      "pages": 489,
+      "category": "Complexity Theory"
+    },
+    {
+      "id": "8",
+      "title": "Introduction to Modern Cryptography",
+      "author": "Mihir Bellare, Phillip Rogaway",
+      "publisher": "University of California at Davis",
+      "year": "2005",
+      "pages": 283,
+      "category": "Cryptography"
+    },
+    {
+      "id": "9",
+      "title": "A Machine Made this Book: Ten Sketches of Computer Science",
+      "author": "John Whitington",
+      "publisher": "Coherent Press",
+      "year": "2016",
+      "pages": 201,
+      "category": "Computer Science"
+    },
+    {
+      "id": "10",
+      "title": "Recent Advances in Face Recognition",
+      "author": "Kresimir Delac, Mislav Grgic, Marian Stewart Bartlett",
+      "publisher": "IN-TECH",
+      "year": "2008",
+      "pages": 236,
+      "category": "Computer Vision"
+    },
+    {
+      "id": "11",
+      "title": "What If Crime Were Impossible?",
+      "author": "N. Richard Wagner",
+      "publisher": "Univ. of Texas San Antonio",
+      "year": "2002",
+      "pages": 303,
+      "category": "Criminology"
+    },
+    {
+      "id": "12",
+      "title": "An Introduction to Many Worlds in Quantum Computation",
+      "author": "Clare Hewitt-Horsman",
+      "publisher": "arXiv",
+      "year": "2009",
+      "pages": 38,
+      "category": "Quantum Computation"
+    },
+    {
+      "id": "13",
+      "title": "Introduction to Design Analysis of Algorithms",
+      "author": "K. Raghava Rao",
+      "publisher": "Smashwords",
+      "year": "2013",
+      "pages": 142,
+      "category": "Algorithms"
+    },
+    {
+      "id": "14",
+      "title": "Practical Tips for Software-Intensive Student Projects",
+      "author": "Damith C. Rajapakse",
+      "year": "2008",
+      "category": "Software Engineering"
+    },
+    {
+      "id": "15",
+      "title": "Databases, Types, and The Relational Model: The Third Manifesto",
+      "author": "C.J. Date, Hugh Darwen",
+      "publisher": "Addison Wesley",
+      "year": "2014",
+      "pages": 604,
+      "category": "Databases"
+    },
+    {
+      "id": "16",
+      "title": "A Rosetta Stone for Quantum Mechanics with an Introduction to Quantum Computation",
+      "author": "Samuel J. Lomonaco, jr",
+      "publisher": "arXiv",
+      "year": "2000",
+      "pages": 97,
+      "category": "Quantum Mechanics"
+    },
+    {
+      "id": "17",
+      "title": "The Quest for Artificial Intelligence",
+      "author": "Nils J. Nilsson",
+      "publisher": "Cambridge University Press",
+      "year": "2009",
+      "pages": 707,
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "18",
+      "title": "Face Recognition",
+      "author": "Kresimir Delac, Mislav Grgic",
+      "publisher": "InTech",
+      "year": "2007",
+      "pages": 558,
+      "category": "Computer Vision"
+    },
+    {
+      "id": "19",
+      "title": "Search Engines: Information Retrieval in Practice",
+      "author": "W.B. Croft, D. Metzler, T. Strohman",
+      "publisher": "Pearson Education",
+      "year": "2015",
+      "pages": 542,
+      "category": "Information Retrieval"
+    },
+    {
+      "id": "20",
+      "title": "Reinforcement Learning",
+      "author": "C. Weber, M. Elshaw, N. M. Mayer",
+      "publisher": "InTech",
+      "year": "2008",
+      "pages": 424,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "21",
+      "title": "Elasticsearch: The Definitive Guide",
+      "author": "Clinton Gormley, Zachary Tong",
+      "publisher": "O'Reilly",
+      "year": "2015",
+      "pages": 724,
+      "category": "Search Engines"
+    },
+    {
+      "id": "22",
+      "title": "An Introduction to Neural Networks",
+      "author": "Ben Krose, Patrick van der Smagt",
+      "year": "1996",
+      "pages": 135,
+      "category": "Neural Networks"
+    },
+    {
+      "id": "23",
+      "title": "Quantum Computing Since Democritus",
+      "author": "Scott Aaronson",
+      "publisher": "University of Waterloo",
+      "year": "2006",
+      "pages": 398,
+      "category": "Quantum Computing"
+    },
+    {
+      "id": "24",
+      "title": "Practical Semantic Web and Linked Data Applications",
+      "author": "Mark Watson",
+      "year": "2010",
+      "pages": 180,
+      "category": "Semantic Web"
+    },
+    {
+      "id": "25",
+      "title": "The Hundred-Page Machine Learning Book",
+      "author": "Andriy Burkov",
+      "year": "2019",
+      "pages": 160,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "26",
+      "title": "Multi-Relational Data Mining",
+      "author": "Arno Jan Knobbe",
+      "publisher": "IOS Press",
+      "year": "2006",
+      "pages": 130,
+      "category": "Data Mining"
+    },
+    {
+      "id": "27",
+      "title": "Elements of Causal Inference: Foundations and Learning Algorithms",
+      "author": "J. Peters, D. Janzing, B. Schölkopf",
+      "publisher": "The MIT Press",
+      "year": "2017",
+      "pages": 289,
+      "category": "Causal Inference"
+    },
+    {
+      "id": "28",
+      "title": "Intelligent Vision Systems for Industry",
+      "author": "Bruce G. Batchelor",
+      "publisher": "Springer-Verlag",
+      "year": "2002",
+      "pages": 473,
+      "category": "Computer Vision"
+    },
+    {
+      "id": "29",
+      "title": "Natural Image Statistics",
+      "author": "Aapo Hyvarinen, Jarmo Hurri, Patrik O. Hoyer",
+      "publisher": "Springer",
+      "year": "2009",
+      "pages": 487,
+      "category": "Image Processing"
+    },
+    {
+      "id": "30",
+      "title": "Mathematics for Classical Information Retrieval",
+      "author": "Dariush Alimohammadi, Mary K. Bolin",
+      "publisher": "Zea E- Books",
+      "year": "2010",
+      "pages": 89,
+      "category": "Mathematics"
+    },
+    {
+      "id": "31",
+      "title": "Randomized Algorithms",
+      "author": "Wolfgang Merkle",
+      "publisher": "ESSLLI",
+      "year": "2001",
+      "pages": 46,
+      "category": "Algorithms"
+    },
+    {
+      "id": "32",
+      "title": "Artificial Intelligence - Agents and Environments",
+      "author": "William John Teahan",
+      "publisher": "BookBoon",
+      "year": "2010",
+      "pages": 154,
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": "33",
+      "title": "Encyclopedia of Computational Intelligence",
+      "author": "Eugene M. Izhikevich, et al.",
+      "publisher": "Scholarpedia",
+      "year": "2009",
+      "category": "Computational Intelligence"
+    },
+    {
+      "id": "34",
+      "title": "Modeling with Data: Tools and Techniques for Scientific Computing",
+      "author": "Ben Klemens",
+      "publisher": "Princeton University Press",
+      "year": "2009",
+      "pages": 470,
+      "category": "Scientific Computing"
+    },
+    {
+      "id": "35",
+      "title": "Speech Technologies",
+      "author": "Ivo Ipsic",
+      "publisher": "InTech",
+      "year": "2011",
+      "pages": 432,
+      "category": "Speech Processing"
+    },
+    {
+      "id": "36",
+      "title": "The Functional Analysis of Quantum Information Theory",
+      "author": "Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder",
+      "publisher": "arXiv",
+      "year": "2014",
+      "pages": 123,
+      "category": "Quantum Information"
+    },
+      {
+        "id": "1",
+        "title": "Programming Languages: Theory and Practice",
+        "author": "Robert Harper",
+        "publisher": "Carnegie Mellon University",
+        "year": "2005",
+        "pages": 277,
+        "category": "Computer Science",
+        "url": "https://www.cs.cmu.edu/~rwh/plbook/book.pdf"
+      },
+      {
+        "id": "2", 
+        "title": "Big Data on Real-World Applications",
+        "author": "S. Ventura Soto, Jose M. Luna, Alberto Cano",
+        "publisher": "InTech",
+        "year": "2016",
+        "pages": 122,
+        "category": "Computer Science",
+        "url": "#"
+      }
+    ]
+  },
+  "mba": {
+    "title": "MBA E-Books",
+    "books": [
+      {
+        "id": "1",
+        "title": "Business Strategy",
+        "author": "David J. Collis",
+        "publisher": "Harvard Business School",
+        "year": "2021",
+        "pages": 256,
+        "category": "Strategic Management",
+        "url": "#"
+      }
+    ]
+  },
+  "categories": [
+    "Computer Science",
+    "Electronics",
+    "Mechanical",
+    "Civil",
+    "Information Technology",
+    "Electrical",
+    "Strategic Management",
+    "Marketing",
+    "Finance",
+    "Operations Management"
+  ]
+}
